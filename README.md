@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Akshaya P 👋
 
-<!--
-**akshayapandiyan/akshayapandiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst | B.E. Computer Science Graduate**
 
-Here are some ideas to get you started:
+I'm a passionate fresher interested in Data Analytics and Data Visualization. I enjoy analyzing data and finding meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Pandas & NumPy
+
+### Projects
+- E-commerce Sales Analysis Dashboard
+- Superstore Sales Analysis Dashboard
+- Residential Electricity Demand Forecasting using N-BEATS
+
+### Certifications
+- Deloitte Data Analytics Job Simulation
+- Tata GenAI Powered Data Analytics Job Simulation
+- Tata Data Visualization Job Simulation
+- Keyan Technologies – Data Science Internship
+
+### Connect With Me
+- LinkedIn: [Akshaya Pandiyan](https://linkedin.com/in/akshayapandiyan)
+- Email: akshayapandiyan01@gmail.com
